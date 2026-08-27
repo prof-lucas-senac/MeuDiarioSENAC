@@ -6,7 +6,8 @@ public class RegistroDAO
 
     public void Inserir(Registro registro)
     {
-        
+        conexao.Registros.Add(registro);
+        conexao.SaveChanges();
     }
 
     public List<Registro> ListarTodos()

@@ -12,3 +12,4 @@ C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Data\obj\Debug\net9.0\MeuDiar
 C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Data\obj\Debug\net9.0\ref\MeuDiarioSENAC.Data.dll
 C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Data\bin\Debug\net9.0\MeuDiarioSENAC.Data.runtimeconfig.json
 C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Data\obj\Debug\net9.0\MeuDiarioSENAC.Data.genruntimeconfig.cache
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Data\obj\Debug\net9.0\MeuDiarioSENAC.Data.sourcelink.json
