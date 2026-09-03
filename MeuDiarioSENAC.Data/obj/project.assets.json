@@ -1133,6 +1133,16 @@
         "runtime": {
           "lib/net9.0/ZstdSharp.dll": {}
         }
+      },
+      "MeuDiarioSENAC.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MeuDiarioSENAC.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MeuDiarioSENAC.Model.dll": {}
+        }
       }
     }
   },
@@ -3325,10 +3335,17 @@
         "zstdsharp.port.0.8.8.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "MeuDiarioSENAC.Model/1.0.0": {
+      "type": "project",
+      "path": "../MeuDiarioSENAC.Model/MeuDiarioSENAC.Model.csproj",
+      "msbuildProject": "../MeuDiarioSENAC.Model/MeuDiarioSENAC.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "MeuDiarioSENAC.Model >= 1.0.0",
+      "Microsoft.EntityFrameworkCore >= 9.0.19",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.19",
       "MySql.Data >= 26.7.0",
       "Pomelo.EntityFrameworkCore.MySql >= 9.0.0"
@@ -3360,7 +3377,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj": {
+              "projectPath": "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -3379,6 +3400,10 @@
       "net9.0": {
         "targetAlias": "net9.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[9.0.19, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",

@@ -12,11 +12,11 @@ public class RegistroDAO
 
     public List<Registro> ListarTodos()
     {
-        return null;
+        return conexao.Registros.ToList();
     }
 
     public Registro? BuscarPorId(int id)
     {
-        return null;
+        return conexao.Registros.FirstOrDefault(r => r.Id == id);
     }
 }

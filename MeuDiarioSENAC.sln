@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeuDiarioSENAC.Data", "MeuD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeuDiarioSENAC.ConsoleApp", "MeuDiarioSENAC.ConsoleApp\MeuDiarioSENAC.ConsoleApp.csproj", "{D72B2417-E6BB-4246-9B7C-8AD17044FB26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeuDiarioSENAC.Model", "MeuDiarioSENAC.Model\MeuDiarioSENAC.Model.csproj", "{CFB096EA-DF11-4E56-AE8A-AA529DDE562E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{D72B2417-E6BB-4246-9B7C-8AD17044FB26}.Release|x64.Build.0 = Release|Any CPU
 		{D72B2417-E6BB-4246-9B7C-8AD17044FB26}.Release|x86.ActiveCfg = Release|Any CPU
 		{D72B2417-E6BB-4246-9B7C-8AD17044FB26}.Release|x86.Build.0 = Release|Any CPU
+		{CFB096EA-DF11-4E56-AE8A-AA529DDE562E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB096EA-DF11-4E56-AE8A-AA529DDE562E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB096EA-DF11-4E56-AE8A-AA529DDE562E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CFB096EA-DF11-4E56-AE8A-AA529DDE562E}.Debug|x64.Build.0 = Debug|Any CPU
+		{CFB096EA-DF11-4E56-AE8A-AA529DDE562E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CFB096EA-DF11-4E56-AE8A-AA529DDE562E}.Debug|x86.Build.0 = Debug|Any CPU
+		{CFB096EA-DF11-4E56-AE8A-AA529DDE562E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB096EA-DF11-4E56-AE8A-AA529DDE562E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB096EA-DF11-4E56-AE8A-AA529DDE562E}.Release|x64.ActiveCfg = Release|Any CPU
+		{CFB096EA-DF11-4E56-AE8A-AA529DDE562E}.Release|x64.Build.0 = Release|Any CPU
+		{CFB096EA-DF11-4E56-AE8A-AA529DDE562E}.Release|x86.ActiveCfg = Release|Any CPU
+		{CFB096EA-DF11-4E56-AE8A-AA529DDE562E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
