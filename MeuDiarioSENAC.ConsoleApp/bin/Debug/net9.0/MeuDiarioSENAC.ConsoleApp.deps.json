@@ -8,7 +8,9 @@
     ".NETCoreApp,Version=v9.0": {
       "MeuDiarioSENAC.ConsoleApp/1.0.0": {
         "dependencies": {
-          "MeuDiarioSENAC.Data": "1.0.0"
+          "MeuDiarioSENAC.Business": "1.0.0",
+          "MeuDiarioSENAC.Data": "1.0.0",
+          "MeuDiarioSENAC.Service": "1.0.0"
         },
         "runtime": {
           "MeuDiarioSENAC.ConsoleApp.dll": {}
@@ -341,6 +343,17 @@
           }
         }
       },
+      "MeuDiarioSENAC.Business/1.0.0": {
+        "dependencies": {
+          "MeuDiarioSENAC.Model": "1.0.0"
+        },
+        "runtime": {
+          "MeuDiarioSENAC.Business.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "MeuDiarioSENAC.Data/1.0.0": {
         "dependencies": {
           "MeuDiarioSENAC.Model": "1.0.0",
@@ -358,6 +371,19 @@
       "MeuDiarioSENAC.Model/1.0.0": {
         "runtime": {
           "MeuDiarioSENAC.Model.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MeuDiarioSENAC.Service/1.0.0": {
+        "dependencies": {
+          "MeuDiarioSENAC.Business": "1.0.0",
+          "MeuDiarioSENAC.Data": "1.0.0",
+          "MeuDiarioSENAC.Model": "1.0.0"
+        },
+        "runtime": {
+          "MeuDiarioSENAC.Service.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -567,12 +593,22 @@
       "path": "zstdsharp.port/0.8.8",
       "hashPath": "zstdsharp.port.0.8.8.nupkg.sha512"
     },
+    "MeuDiarioSENAC.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "MeuDiarioSENAC.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "MeuDiarioSENAC.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MeuDiarioSENAC.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

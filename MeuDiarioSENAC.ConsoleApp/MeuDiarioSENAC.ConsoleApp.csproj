@@ -8,7 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MeuDiarioSENAC.Business\MeuDiarioSENAC.Business.csproj" />
     <ProjectReference Include="..\MeuDiarioSENAC.Data\MeuDiarioSENAC.Data.csproj" />
+    <ProjectReference Include="..\MeuDiarioSENAC.Service\MeuDiarioSENAC.Service.csproj" />
   </ItemGroup>
 
 </Project>

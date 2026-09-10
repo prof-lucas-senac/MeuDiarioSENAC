@@ -1,0 +1,16 @@
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\bin\Debug\net9.0\MeuDiarioSENAC.Business.deps.json
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\bin\Debug\net9.0\MeuDiarioSENAC.Business.dll
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\bin\Debug\net9.0\MeuDiarioSENAC.Business.pdb
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\bin\Debug\net9.0\MeuDiarioSENAC.Model.dll
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\bin\Debug\net9.0\MeuDiarioSENAC.Model.pdb
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.csproj.AssemblyReference.cache
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.AssemblyInfoInputs.cache
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.AssemblyInfo.cs
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.csproj.CoreCompileInputs.cache
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.sourcelink.json
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiari.0BFF25CF.Up2Date
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.dll
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\refint\MeuDiarioSENAC.Business.dll
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.pdb
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\ref\MeuDiarioSENAC.Business.dll

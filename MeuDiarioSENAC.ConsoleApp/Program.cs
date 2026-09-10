@@ -28,14 +28,16 @@ do
             Registro registro = new Registro();
 
             Console.Write("Título: ");
-            registro.Titulo = Console.ReadLine()!;
+            registro.Titulo = Console.ReadLine();
 
             Console.Write("Conteúdo: ");
-            registro.Conteudo = Console.ReadLine()!;
+            registro.Conteudo = Console.ReadLine();
 
             registro.DataRegistro = DateTime.Now;
+            registro.UsuarioId = 1; // ID do usuário logado (exemplo)   
 
-            dao.Inserir(registro);
+            RegistroService registroService = new RegistroService();
+            registroService.AdicionarRegistro(registro);
 
             Console.WriteLine();
             Console.WriteLine("Registro salvo com sucesso!");

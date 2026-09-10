@@ -503,6 +503,19 @@
           "lib/net9.0/ZstdSharp.dll": {}
         }
       },
+      "MeuDiarioSENAC.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "MeuDiarioSENAC.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MeuDiarioSENAC.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MeuDiarioSENAC.Business.dll": {}
+        }
+      },
       "MeuDiarioSENAC.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -527,6 +540,21 @@
         },
         "runtime": {
           "bin/placeholder/MeuDiarioSENAC.Model.dll": {}
+        }
+      },
+      "MeuDiarioSENAC.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "MeuDiarioSENAC.Business": "1.0.0",
+          "MeuDiarioSENAC.Data": "1.0.0",
+          "MeuDiarioSENAC.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MeuDiarioSENAC.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MeuDiarioSENAC.Service.dll": {}
         }
       }
     }
@@ -1297,6 +1325,11 @@
         "zstdsharp.port.nuspec"
       ]
     },
+    "MeuDiarioSENAC.Business/1.0.0": {
+      "type": "project",
+      "path": "../MeuDiarioSENAC.Business/MeuDiarioSENAC.Business.csproj",
+      "msbuildProject": "../MeuDiarioSENAC.Business/MeuDiarioSENAC.Business.csproj"
+    },
     "MeuDiarioSENAC.Data/1.0.0": {
       "type": "project",
       "path": "../MeuDiarioSENAC.Data/MeuDiarioSENAC.Data.csproj",
@@ -1306,11 +1339,18 @@
       "type": "project",
       "path": "../MeuDiarioSENAC.Model/MeuDiarioSENAC.Model.csproj",
       "msbuildProject": "../MeuDiarioSENAC.Model/MeuDiarioSENAC.Model.csproj"
+    },
+    "MeuDiarioSENAC.Service/1.0.0": {
+      "type": "project",
+      "path": "../MeuDiarioSENAC.Service/MeuDiarioSENAC.Service.csproj",
+      "msbuildProject": "../MeuDiarioSENAC.Service/MeuDiarioSENAC.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "MeuDiarioSENAC.Data >= 1.0.0"
+      "MeuDiarioSENAC.Business >= 1.0.0",
+      "MeuDiarioSENAC.Data >= 1.0.0",
+      "MeuDiarioSENAC.Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1340,8 +1380,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Business\\MeuDiarioSENAC.Business.csproj": {
+              "projectPath": "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Business\\MeuDiarioSENAC.Business.csproj"
+            },
             "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Data\\MeuDiarioSENAC.Data.csproj": {
               "projectPath": "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Data\\MeuDiarioSENAC.Data.csproj"
+            },
+            "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Service\\MeuDiarioSENAC.Service.csproj": {
+              "projectPath": "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Service\\MeuDiarioSENAC.Service.csproj"
             }
           }
         }

@@ -53,3 +53,7 @@ C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.ConsoleApp\bin\Debug\net9.0\P
 C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.ConsoleApp\bin\Debug\net9.0\MeuDiarioSENAC.Model.dll
 C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.ConsoleApp\bin\Debug\net9.0\MeuDiarioSENAC.Model.pdb
 C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.ConsoleApp\obj\Debug\net9.0\MeuDiarioSENAC.ConsoleApp.sourcelink.json
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.ConsoleApp\bin\Debug\net9.0\MeuDiarioSENAC.Business.dll
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.ConsoleApp\bin\Debug\net9.0\MeuDiarioSENAC.Business.pdb
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.ConsoleApp\bin\Debug\net9.0\MeuDiarioSENAC.Service.dll
+C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.ConsoleApp\bin\Debug\net9.0\MeuDiarioSENAC.Service.pdb
