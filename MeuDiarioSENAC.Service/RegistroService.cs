@@ -8,4 +8,10 @@ public class RegistroService
         RegistroDAO registroDAO = new RegistroDAO();
         registroDAO.Inserir(registro);
     }
+
+    public List<Registro> ListarRegistros()
+    {
+        RegistroDAO registroDAO = new RegistroDAO();
+        return registroDAO.ListarTodos();
+    }
 }

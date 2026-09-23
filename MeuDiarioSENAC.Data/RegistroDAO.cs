@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using MySql.Data.MySqlClient;
 
 public class RegistroDAO
@@ -12,11 +13,17 @@ public class RegistroDAO
 
     public List<Registro> ListarTodos()
     {
-        return conexao.Registros.ToList();
+        return conexao.Registros
+            .AsNoTracking()
+            .Include(r => r.Usuario)
+            .ToList();
     }
 
     public Registro? BuscarPorId(int id)
     {
-        return conexao.Registros.FirstOrDefault(r => r.Id == id);
+        return conexao.Registros
+            .AsNoTracking()
+            .Include(r => r.Usuario)
+            .FirstOrDefault(r => r.Id == id);
     }
 }

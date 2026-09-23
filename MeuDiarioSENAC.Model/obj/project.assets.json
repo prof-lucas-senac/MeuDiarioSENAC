@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj",
+      "projectUniqueName": "c:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj",
       "projectName": "MeuDiarioSENAC.Model",
-      "projectPath": "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj",
+      "projectPath": "c:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj",
       "packagesPath": "C:\\Users\\Prog_Sis\\.nuget\\packages\\",
-      "outputPath": "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Model\\obj\\",
+      "outputPath": "c:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Prog_Sis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.317/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
