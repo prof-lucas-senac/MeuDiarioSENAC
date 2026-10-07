@@ -10,6 +10,12 @@ builder.Services.ConfigureHttpJsonOptions(options =>
 
 var app = builder.Build();
 
+app.MapPost("/login/auth", () =>
+{
+    TokenService authService = new TokenService(builder.Configuration);
+    return authService.GerarToken(null);
+});
+
 var registrosGroup = app.MapGroup("/registros");
 
 registrosGroup.MapGet("/", () => {
