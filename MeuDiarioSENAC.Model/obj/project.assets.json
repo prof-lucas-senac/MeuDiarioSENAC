@@ -8,26 +8,28 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Prog_Sis\\.nuget\\packages\\": {}
+    "C:\\Users\\giuli\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj",
+      "projectUniqueName": "C:\\workspace\\MeuDiarioSENAC\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj",
       "projectName": "MeuDiarioSENAC.Model",
-      "projectPath": "c:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj",
-      "packagesPath": "C:\\Users\\Prog_Sis\\.nuget\\packages\\",
-      "outputPath": "c:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Model\\obj\\",
+      "projectPath": "C:\\workspace\\MeuDiarioSENAC\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj",
+      "packagesPath": "C:\\Users\\giuli\\.nuget\\packages\\",
+      "outputPath": "C:\\workspace\\MeuDiarioSENAC\\MeuDiarioSENAC.Model\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Prog_Sis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\giuli\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.320/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -14,3 +14,19 @@ C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\Meu
 C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\refint\MeuDiarioSENAC.Business.dll
 C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.pdb
 C:\workplace\Desenvolvedor Web\back\MeuDiarioSENAC.Business\obj\Debug\net9.0\ref\MeuDiarioSENAC.Business.dll
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\bin\Debug\net9.0\MeuDiarioSENAC.Business.deps.json
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\bin\Debug\net9.0\MeuDiarioSENAC.Business.dll
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\bin\Debug\net9.0\MeuDiarioSENAC.Business.pdb
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\bin\Debug\net9.0\MeuDiarioSENAC.Model.dll
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\bin\Debug\net9.0\MeuDiarioSENAC.Model.pdb
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.csproj.AssemblyReference.cache
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.AssemblyInfoInputs.cache
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.AssemblyInfo.cs
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.csproj.CoreCompileInputs.cache
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.sourcelink.json
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiari.0BFF25CF.Up2Date
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.dll
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\obj\Debug\net9.0\refint\MeuDiarioSENAC.Business.dll
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\obj\Debug\net9.0\MeuDiarioSENAC.Business.pdb
+C:\workspace\MeuDiarioSENAC\MeuDiarioSENAC.Business\obj\Debug\net9.0\ref\MeuDiarioSENAC.Business.dll

@@ -6,7 +6,7 @@ class MeuDiarioSENACContext : DbContext
     public DbSet<Usuario> Usuarios { get; set; }
     
     private readonly string connectionString =
-        "server=localhost;database=MeuDiarioSENAC;uid=root;pwd=S&nac2024;";
+        "server=gateway01.ap-northeast-1.prod.aws.tidbcloud.com;port=4000;database=MeuDiarioSENAC;uid=2fv6EHCNTpUWmBy.root;pwd=WZiscClPEJha5pVh;";
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {

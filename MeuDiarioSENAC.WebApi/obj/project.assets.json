@@ -1731,37 +1731,39 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Prog_Sis\\.nuget\\packages\\": {}
+    "C:\\Users\\giuli\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.WebApi\\MeuDiarioSENAC.WebApi.csproj",
+      "projectUniqueName": "C:\\workspace\\MeuDiarioSENAC\\MeuDiarioSENAC.WebApi\\MeuDiarioSENAC.WebApi.csproj",
       "projectName": "MeuDiarioSENAC.WebApi",
-      "projectPath": "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.WebApi\\MeuDiarioSENAC.WebApi.csproj",
-      "packagesPath": "C:\\Users\\Prog_Sis\\.nuget\\packages\\",
-      "outputPath": "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.WebApi\\obj\\",
+      "projectPath": "C:\\workspace\\MeuDiarioSENAC\\MeuDiarioSENAC.WebApi\\MeuDiarioSENAC.WebApi.csproj",
+      "packagesPath": "C:\\Users\\giuli\\.nuget\\packages\\",
+      "outputPath": "C:\\workspace\\MeuDiarioSENAC\\MeuDiarioSENAC.WebApi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Prog_Sis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\giuli\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj": {
-              "projectPath": "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj"
+            "C:\\workspace\\MeuDiarioSENAC\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj": {
+              "projectPath": "C:\\workspace\\MeuDiarioSENAC\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj"
             },
-            "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Service\\MeuDiarioSENAC.Service.csproj": {
-              "projectPath": "C:\\workplace\\Desenvolvedor Web\\back\\MeuDiarioSENAC.Service\\MeuDiarioSENAC.Service.csproj"
+            "C:\\workspace\\MeuDiarioSENAC\\MeuDiarioSENAC.Service\\MeuDiarioSENAC.Service.csproj": {
+              "projectPath": "C:\\workspace\\MeuDiarioSENAC\\MeuDiarioSENAC.Service\\MeuDiarioSENAC.Service.csproj"
             }
           }
         }
@@ -1800,7 +1802,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.320/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
